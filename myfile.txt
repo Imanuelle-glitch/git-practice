@@ -1,1 +1,1 @@
-understanding the add and commit command
+simply use push command without the origin master to push
